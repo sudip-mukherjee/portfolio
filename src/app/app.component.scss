@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  .wrapper {
+    height: 100%;
+  }
+  .header, .footer {
+    height: 10%;
+    background: silver;
+  }
+  .content {
+    height: 80%;
+    overflow: auto;
+    background: pink;
+  }
